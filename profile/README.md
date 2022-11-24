@@ -3,7 +3,7 @@ Welcome to the Abei Energy GitHub. Here you can find quite a few things. We thin
 
 First thing you need to know is that there are various [teams](https://docs.github.com/es/get-started/quickstart/github-glossary#team) within this github _thing_. By default, you will be assigned to the general team ```@ABEI-Energy/general```. This team has only __reading__ permissions but the ability to . That means that you will be granted access to certain repos where the you can **propose** changes, but need to be approved by someone in another team. Like so, we allow and welcome everybody to participate and include their ideas without risking the files.
 
-If you are not about this, but you see something odd and want to raise your hand, then just go to the tab issues and log a ticket mentioning @help and someone will do it for you.
+If you are not about this, but you see something odd and want to raise your hand, read this [Opening a ticket](-If-you-don't-want-to-get-your-hands-dirty)
 
 ## Wikis
 
@@ -81,5 +81,9 @@ Even though when you make a Pull Request the responsible team will get notified,
 ###### And that would be it, once submitted you will have to wait for it to be reviewed. If there are comments or changes to be made to your proposal, the responsible team will notify you. If your changes are accepted, you should recieve an email saying that your changes have been approved. If not, check your notifications on the bell sign up to the right on your GitHub session:
 ![image](https://user-images.githubusercontent.com/118175657/203838797-74717416-53de-4d7e-a9c9-9d42f3fe9bd9.png)
 
+## Scripts
+
+Github is thought as a collaborative platform to code. In case you want to dig dipper on how to participate, check the repo [How to Git](https://github.com/ABEI-Energy/wiki-how-to-git)
+![image](https://user-images.githubusercontent.com/116873281/203840193-6b8fbf03-f369-4dd1-8fbc-d5567e85ab14.png)
 
 
