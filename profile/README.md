@@ -1,7 +1,7 @@
 # Hi there! 👋
 Welcome to the Abei Energy GitHub. Here you can find quite a few things. We think that the most of you will come for two things: either you want to see the cheatsheets or maybe you want to use the scripts. Maybe even you want to code some and add to the [repositories](https://docs.github.com/es/get-started/quickstart/github-glossary#repository). Here we explain to you how to make use of this.
 
-First thing you need to know is that there are various [teams](https://docs.github.com/es/get-started/quickstart/github-glossary#team) within this github _thing_. By default, you will be assigned to the general team ```@ABEI-Energy/general```. This team has only __reading__ permissions but the ability to . That means that you will be granted access to certain repos where the you can **propose** changes, but need to be approved by someone in another team. Like so, we allow and welcome everybody to participate and include their ideas without risking the files.
+First thing you need to know is that there are various [teams](https://docs.github.com/es/get-started/quickstart/github-glossary#team) within this github _thing_. By default, you will be assigned to the general team ```@ABEI-Energy/general```. This team has only __reading__ permissions with some exceptions. You will be granted access to certain repos where you can **propose** changes, but those need to be approved by someone in another team. Like so, we allow and welcome everybody to participate and include their ideas without risking the files.
 
 If you are not about this, but you see something odd and want to raise your hand, read this [Opening a ticket](-If-you-don't-want-to-get-your-hands-dirty)
 
