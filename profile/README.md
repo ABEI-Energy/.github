@@ -53,7 +53,7 @@ Go to the repositories section and choose any thereof that you may want to modif
 
 On the grey ribbon you can see the small symbol of a pencil. Go click on it.  ![image](https://user-images.githubusercontent.com/118175657/203819793-0698a293-b0b2-43f2-a172-1ac0eadf9418.png)
 
-Once you clicked, you are in the text editor. If you are familiarised with this kind of stuff, then just jump in! If not, check out this guide on [how to write in README.md files] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Once you clicked, you are in the text editor. If you are familiarised with this kind of stuff, then just jump in! If not, check out this guide on [how to write in README.md files](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ![image](https://user-images.githubusercontent.com/118175657/203820024-e33241e2-7ce0-4a11-94f0-a1e26a89f87e.png)
 
@@ -78,7 +78,7 @@ Even though when you make a Pull Request the responsible team will get notified,
 
 ![image](https://user-images.githubusercontent.com/118175657/203831497-83502a77-783f-4027-a630-1ef3d4e533fc.png)
 
-###### And that would be it, once submitted you will have to wait for it to be reviewed. If there are comments or changes to be made to your proposal, the responsible team will notify you. If your changes are accepted, you should recieve an email saying that your changes have been approved. If not, check your notifications on the bell sign up to the right on your GitHub session:
+**And that would be it, once submitted you will have to wait for it to be reviewed. If there are comments or changes to be made to your proposal, the responsible team will notify you. If your changes are accepted, you should recieve an email saying that your changes have been approved. If not, check your notifications on the bell sign up to the right on your GitHub session:**
 ![image](https://user-images.githubusercontent.com/118175657/203838797-74717416-53de-4d7e-a9c9-9d42f3fe9bd9.png)
 
 ## Scripts
