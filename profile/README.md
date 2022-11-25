@@ -32,7 +32,7 @@ Let's suppose that you have seen an error somewhere, or maybe you just think you
 #### Two ways to procceed
 #### If you don't want to get your hands dirty
 
-This would work as if opening a ticket. Just go the [Issues](https://docs.github.com/es/get-started/quickstart/github-glossary#issue) tab. 
+This would work as if opening a ticket. Just go to the [Issues](https://docs.github.com/es/get-started/quickstart/github-glossary#issue) tab. 
 
 ![image](https://user-images.githubusercontent.com/118175657/203834504-8c639074-b112-44f5-8fe3-6fd34531e3fb.png)
 
@@ -44,7 +44,7 @@ Once opened the new issue, a text box should prompt.
 
 ![image](https://user-images.githubusercontent.com/118175657/203836550-266cb71c-dfd2-454b-9b39-edacefeb23d6.png)
 
-In it, you put a title (summarising what you need) and a bigger comment section to elaborate on what you need. You can drop files of any type on the greyed out area (screenshots, pdfs, documents...). Once done, click on the "Sumbit new issue" button. 
+In it, you put a title (summarising what you need) and a bigger comment section to elaborate on what you need. You can drop files of any type on the greyed out area (screenshots, pdfs, documents...). Once done, click on the "Sumbit new issue" button. From there, someone will take care of it 
 
 #### If yoy want to (or at least try to) perform your changes. 
 Go to the repositories section and choose any thereof that you may want to modify. Once there, go to the README.md file. You should be left with this:
@@ -74,7 +74,7 @@ If you press on the Create a pull request button, you will be greeted by the ano
 ![image](https://user-images.githubusercontent.com/118175657/203828940-5b39d36d-25a3-4999-98dc-dac573a5e3ae.png)
 
 **Warning**
-Even though when you make a Pull Request the responsible team will get notified, you can tag them like shown below. You see different teams, but usually if you are modifying wikis, go for ```@ABEI-Energy/approvals``` in case you really want to get their attention. Also you can see other useful teams like ```@ABEI-Energy/help``` where to raise your voice if something is not working as it should be (although this is more recommended to do as an [Issues](https://docs.github.com/es/get-started/quickstart/github-glossary#issue) matter, as explained in [If you don't want to get your hands dirty](-If-you-don't-want-to-get-your-hands-dirty)
+Even though when you make a Pull Request the responsible team will get notified, you can tag them like shown below. You see different teams, but usually if you are modifying wikis, go for ```@ABEI-Energy/approvals``` in case you really want to get their attention. Also you can see other useful teams like ```@ABEI-Energy/help``` where to raise your voice if something is not working as it should be (although this is more recommended to do as an [Issues](https://docs.github.com/es/get-started/quickstart/github-glossary#issue) matter, as explained in [If you don't want to get your hands dirty](-If-you-don't-want-to-get-your-hands-dirty))
 
 ![image](https://user-images.githubusercontent.com/118175657/203831497-83502a77-783f-4027-a630-1ef3d4e533fc.png)
 
