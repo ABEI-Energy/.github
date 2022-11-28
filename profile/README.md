@@ -1,9 +1,7 @@
 # Hi there! 👋
 Welcome to the Abei Energy GitHub. Here you can find quite a few things. We think that the most of you will come for two things: either you want to see the cheatsheets or maybe you want to use the scripts. Maybe even you want to code some and add to the [repositories](https://docs.github.com/es/get-started/quickstart/github-glossary#repository). Here we explain to you how to make use of this.
 
-First thing you need to know is that there are various [teams](https://docs.github.com/es/get-started/quickstart/github-glossary#team) within this github _thing_. By default, you will be assigned to the general team ```@ABEI-Energy/general```. This team has only __reading__ permissions with some exceptions. You will be granted access to certain repos where you can **propose** changes, but those need to be approved by someone in another team. Like so, we allow and welcome everybody to participate and include their ideas without risking the files.
-
-If you are not about this, but you see something odd and want to raise your hand, read this [Opening a ticket](-If-you-don't-want-to-get-your-hands-dirty)
+First thing you need to know is that there are various [teams](https://docs.github.com/es/get-started/quickstart/github-glossary#team) within this github _thing_. By default, you will be assigned to the general team ```@ABEI-Energy/general```. This team has only __reading__ permissions with some exceptions. You will be granted access to certain repos where you can **propose** changes, but those need to be approved by someone in another team. Like so, we allow and welcome everybody to participate and include their ideas without risking the files. If you need to enter a certain team other than the general one, read the [issues](-If-you-don't-want-to-get-your-hands-dirty) section. Go there as well if you see something odd and want to raise your hand.
 
 ## Wikis
 
@@ -73,12 +71,12 @@ Once clicked, you will be redirected to the Comparing changes section. Here, dow
 If you press on the Create a pull request button, you will be greeted by the another text box, with the same header and content that you wrote one step ago.
 ![image](https://user-images.githubusercontent.com/118175657/203828940-5b39d36d-25a3-4999-98dc-dac573a5e3ae.png)
 
-**Warning**
+>**Warning**
 Even though when you make a Pull Request the responsible team will get notified, you can tag them like shown below. You see different teams, but usually if you are modifying wikis, go for ```@ABEI-Energy/approvals``` in case you really want to get their attention. Also you can see other useful teams like ```@ABEI-Energy/help``` where to raise your voice if something is not working as it should be (although this is more recommended to do as an [Issues](https://docs.github.com/es/get-started/quickstart/github-glossary#issue) matter, as explained in [If you don't want to get your hands dirty](-If-you-don't-want-to-get-your-hands-dirty))
 
 ![image](https://user-images.githubusercontent.com/118175657/203831497-83502a77-783f-4027-a630-1ef3d4e533fc.png)
 
-**And that would be it, once submitted you will have to wait for it to be reviewed. If there are comments or changes to be made to your proposal, the responsible team will notify you. If your changes are accepted, you should recieve an email saying that your changes have been approved. If not, check your notifications on the bell sign up to the right on your GitHub session:**
+**And that would be it, once submitted you will have to wait for it to be reviewed. If there are comments or changes to be made to your proposal, the responsible team will notify you. If your changes are accepted, you should recieve an email saying that your changes have been approved. If not, check your notifications on the bell symbol up to the right on your GitHub session:**
 ![image](https://user-images.githubusercontent.com/118175657/203838797-74717416-53de-4d7e-a9c9-9d42f3fe9bd9.png)
 
 ## Scripts
