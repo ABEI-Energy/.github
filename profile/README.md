@@ -81,7 +81,7 @@ Even though when you make a Pull Request the responsible team will get notified,
 
 ## Scripts
 
-Github is thought as a collaborative platform to code. In case you want to dig dipper on how to participate, check the repo [How to Git](https://github.com/ABEI-Energy/wiki-how-to-git)
+Github is thought as a collaborative platform to code. In case you want to dig dipper on how to participate, check the repo [How to use the scripts](https://github.com/ABEI-Energy/wiki-use-the-scripts#wiki-use-the-scripts)
 ![image](https://user-images.githubusercontent.com/116873281/203840193-6b8fbf03-f369-4dd1-8fbc-d5567e85ab14.png)
 
 
