@@ -72,7 +72,7 @@ If you press on the Create a pull request button, you will be greeted by the ano
 ![image](https://user-images.githubusercontent.com/118175657/203828940-5b39d36d-25a3-4999-98dc-dac573a5e3ae.png)
 
 >**Warning**
-Even though when you make a Pull Request the responsible team will get notified, you can tag them like shown below. You see different teams, but usually if you are modifying wikis, go for ```@ABEI-Energy/approvals``` in case you really want to get their attention. Also you can see other useful teams like ```@ABEI-Energy/help``` where to raise your voice if something is not working as it should be (although this is more recommended to do as an [Issues](https://docs.github.com/es/get-started/quickstart/github-glossary#issue) matter, as explained in [If you don't want to get your hands dirty](-If-you-don't-want-to-get-your-hands-dirty))
+Even though when you make a Pull Request the responsible team will get notified, you can tag them like shown below. You see different teams, but usually if you are modifying wikis, go for ```@ABEI-Energy/approvals``` in case you really want to get their attention. Also you can see other useful teams like ```@ABEI-Energy/mods``` where to raise your voice if something is not working as it should be (although this is more recommended to do as an [Issues](https://docs.github.com/es/get-started/quickstart/github-glossary#issue) matter, as explained in [If you don't want to get your hands dirty](-If-you-don't-want-to-get-your-hands-dirty))
 
 ![image](https://user-images.githubusercontent.com/118175657/203831497-83502a77-783f-4027-a630-1ef3d4e533fc.png)
 
